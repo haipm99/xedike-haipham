@@ -1,0 +1,17 @@
+.img-slide{
+    width: 100%;
+    height: 700px;
+}
+.container-slide-show{
+    width: 100%;
+    height: 700px;
+}
+.box-trip{
+    position: absolute;
+    width: 550px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.4);
+    top:30%;
+    left:35%;
+    z-index: 1;
+}

@@ -1,0 +1,21 @@
+.container-login{
+    background-image: url('../../img/background_login_register.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.login-form{
+    position: absolute;
+    width:400px;
+    height:650px;
+    top:10%;
+    left:35%;
+    background-color: rgba(0, 0, 0, 0.6)
+}
+.login-h1{
+    color: white;
+}
+.form-input{
+    padding:30px
+}
